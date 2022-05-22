@@ -1,0 +1,16 @@
+/*Global Section Starts Here*/
+
+	*{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		text-decoration: none;
+		box-sizing: border-box;
+	}
+
+	body {
+	  background-color: #eee;
+	  font-family: "Roboto", sans-serif;
+	}
+
+/*Global Section Ends Here*/
